@@ -81,3 +81,4 @@ DATA SCIENCE E BIG DATA
 
     2. Cloud Computing
 
+    3. SAAS, PAAS e IAAS

@@ -8,6 +8,7 @@ df = pd.DataFrame({
 })
 
 # Calculo das Médias de Idade e Renda
+
 Xm = df["idade"].mean()
 Ym = df["renda_anual"].mean()
 
